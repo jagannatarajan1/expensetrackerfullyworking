@@ -1,0 +1,26 @@
+.bgprofilecolor {
+  background-color: rgb(237, 235, 235);
+  padding: 0px 10px 0px 10px;
+  border-radius: 25px;
+  font-size: 16px;
+}
+.bgprofilecolor-dark {
+  background-color: black;
+  color: white;
+  /* border-color: rgb(208, 255, 0); */
+  /* padding: 0px 10px 0px 10px;
+  border-radius: 25px;
+  font-size: 16px; */
+}
+.headerColor-dark {
+  display: flex;
+  border-bottom: 2px solid white;
+}
+.headerColor-light {
+  display: flex;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.verify-email-container {
+  margin-top: 100px; /* Adjust the margin top as needed to position the Verifyemail component below the Navbar */
+}

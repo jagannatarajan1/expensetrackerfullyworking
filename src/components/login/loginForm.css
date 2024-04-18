@@ -1,0 +1,26 @@
+p {
+  cursor: pointer;
+  margin-left: 20px;
+  margin-top: -9%;
+}
+p:hover {
+  color: blue;
+}
+.forgotPasssword {
+  padding-top: 8%;
+  text-align: center;
+  padding-right: 80px;
+  /* padding-left: 110px; */
+}
+.pc {
+  padding-top: 45px;
+  padding-top: 47px;
+  padding-left: -20px;
+  margin-bottom: -30px;
+}
+.invalid {
+  color: red;
+}
+.valid {
+  color: green;
+}
